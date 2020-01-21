@@ -1,8 +1,6 @@
-package com.algo.level2;
+package com.algo.dev;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * 다리를 지나는 트럭

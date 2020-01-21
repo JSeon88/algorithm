@@ -1,8 +1,4 @@
-package com.algo.level2;
-
-import java.util.HashMap;
-import java.util.Set;
-import java.util.Stack;
+package com.algo.dev;
 
 /**
  * 다리를 지나는 트럭

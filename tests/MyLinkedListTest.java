@@ -1,8 +1,7 @@
-package com.structures;
+import com.structures.MyLinkedList;
+import org.junit.Before;
 
 import java.util.ArrayList;
-
-import org.junit.Before;
 
 
 /**
@@ -12,7 +11,7 @@ import org.junit.Before;
 public class MyLinkedListTest extends MyArrayListTest {
 
     /**
-     * @throws java.lang.Exception
+     * @throws Exception
      */
     @Before
     public void setUp() throws Exception {
